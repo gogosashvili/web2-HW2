@@ -122,21 +122,4 @@ h1, h2, p{
 		width: 100%;
 		margin-right: 0;
 	}
-	.popular-card {
-		height: 370px;
-	}
-	.popular-card img{
-		height: 60%;
-	}
-	.popular-card .info{
-		position: relative;
-		padding:0;
-		margin:0;
-	}
-	.popular-card button{
-		display: none;
-	}
-	.popular-card .info{
-		display: none;
-	}
 }
